@@ -7,7 +7,7 @@ Read text from the keyboard and display its type in Kotlin. Also report whether 
 contains only whitespace, only letters, only digits, or a combination of letters
 and digits, and whether its letters are all uppercase or all lowercase.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-004.md
 */
 
 fun main() {

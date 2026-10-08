@@ -5,7 +5,7 @@ Exercise 008: Meters to Centimeters and Millimeters.
 
 Read a distance in meters and display its equivalent values in centimeters and millimeters.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-008.md
 */
 
 fun main(){

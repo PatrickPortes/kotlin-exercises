@@ -5,7 +5,7 @@ Exercise 009: Multiplication Table.
 
 Ask for an integer and display its multiplication table from 1 to 10.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-009.md
  */
 
 fun main() {

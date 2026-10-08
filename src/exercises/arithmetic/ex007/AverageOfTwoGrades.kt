@@ -5,7 +5,7 @@ Exercise 007: Average of Two Grades
 
 Ask for a student's two grades and display their arithmetic mean.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-007.md
 */
 
 fun main() {

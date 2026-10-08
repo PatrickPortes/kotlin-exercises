@@ -5,7 +5,7 @@ Exercise 006: Double Triple and Square Root
 
 Read a numeric value and display twice its value, three times its value, and its square root.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-006.md
 */
 
 import kotlin.math.sqrt

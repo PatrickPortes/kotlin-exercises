@@ -5,7 +5,7 @@ Exercise 005: Predecessor and Successor.
 
 Ask for an integer and display the integers immediately before and after it.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-005.md
 */
 
 fun main() {

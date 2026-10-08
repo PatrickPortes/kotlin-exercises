@@ -5,7 +5,7 @@ Exercise 003: Sum Of Two Numbers.
 
 Read two numeric values, calculate their sum, and display the result.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-003.md
 */
 
 fun main() {

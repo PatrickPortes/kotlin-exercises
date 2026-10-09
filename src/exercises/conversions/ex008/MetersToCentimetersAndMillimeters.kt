@@ -1,4 +1,4 @@
-package exercises.arithmetic.ex008
+package exercises.conversions.ex008
 
 /*
 Exercise 008: Meters to Centimeters and Millimeters.

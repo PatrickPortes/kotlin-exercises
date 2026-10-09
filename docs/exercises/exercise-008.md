@@ -4,7 +4,7 @@
 Read a distance in meters and display its equivalent values in centimeters and millimeters.
 
 ## Source code
-[MetersToCentimetersAndMillimeters.kt](../../src/exercises/arithmetic/ex008/MetersToCentimetersAndMillimeters.kt)
+[MetersToCentimetersAndMillimeters.kt](../../src/exercises/conversions/ex008/MetersToCentimetersAndMillimeters.kt)
 
 ## How to run
 Open MetersToCentimetersAndMillimeters.kt and run its main function.

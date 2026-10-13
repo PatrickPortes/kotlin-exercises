@@ -5,7 +5,7 @@ Exercise 014: Celsius to Fahrenheit.
 
 Read a temperature in degrees Celsius and display its equivalent in degrees Fahrenheit.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-014.md
 */
 
 fun main() {

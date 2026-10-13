@@ -5,7 +5,7 @@ Exercise 013: Salary Raise.
 
 Ask for an employee's current salary and display the new salary after a 15% raise.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-013.md
 */
 
 fun main() {

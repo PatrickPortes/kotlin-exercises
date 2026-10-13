@@ -5,7 +5,7 @@ Exercise 015: Car Rental Cost.
 
 Ask for the number of days a car was rented and the distance traveled in kilometers. Display the total cost, charging BRL 60.00 per day and BRL 0.15 per kilometer.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-015.md
 */
 
 fun main() {

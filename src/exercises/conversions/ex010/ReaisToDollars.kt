@@ -5,7 +5,7 @@ Exercise 010: Multiplication Table.
 
 Read an amount in Brazilian reais and determine how many US dollars it can buy.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-010.md
 */
 
 fun main() {

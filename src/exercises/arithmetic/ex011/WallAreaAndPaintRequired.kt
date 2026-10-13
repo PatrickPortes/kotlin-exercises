@@ -5,7 +5,7 @@ Exercise 011: Wall Area and Paint Required.
 
 Ask for a wall's width and height in meters. Display its area and the amount of paint required, assuming each liter covers 2 square meters.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-011.md
 */
 
 fun main() {

@@ -5,7 +5,7 @@ Exercise 012: Product Discount.
 
 Read a product's price and display the final price after applying a 5% discount.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-012.md
 */
 
 fun main() {

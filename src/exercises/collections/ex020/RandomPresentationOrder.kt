@@ -5,7 +5,7 @@ Exercise 020: Random Presentation Order.
 
 Read the names of four students and generate a random order for their presentations. Display all four names in that order.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-020.md
 */
 
 fun main() {

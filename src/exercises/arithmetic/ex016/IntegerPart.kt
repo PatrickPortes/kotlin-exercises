@@ -5,7 +5,7 @@ Exercise 016: Integer Part.
 
 Read a number with decimal places and display only its integer part, discarding the fractional part.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-016.md
 */
 
 fun main() {

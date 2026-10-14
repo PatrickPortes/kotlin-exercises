@@ -5,7 +5,7 @@ Exercise 019: Random Student Selection.
 
 Ask for the names of four students. Randomly select one to erase the board and display the selected name.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-019.md
 */
 
 fun main() {

@@ -9,7 +9,7 @@ Exercise 018: Sine, Cosine and Tangent.
 
 Read an angle in degrees and display its sine, cosine, and tangent.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-018.md
 */
 
 fun main() {

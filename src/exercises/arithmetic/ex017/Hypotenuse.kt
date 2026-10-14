@@ -7,7 +7,7 @@ Exercise 017: Hypotenuse.
 
 Ask for the lengths of the two legs of a right triangle and determine the length of its hypotenuse.
 
-Full statement: docs/exercises/TODO
+Full statement: docs/exercises/exercise-017.md
 */
 
 fun main() {

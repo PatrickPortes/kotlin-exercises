@@ -19,4 +19,6 @@ The Predecessor of 10 is 9
 The Successor of 10 is 11
 
 ## Notes
-- Learning concepts: trimming surrounding whitespace with `trim()`, safe integer conversion with `toIntOrNull()`, nullable values and null checks, conditional statements with `if`, early returns, smart casts after null validation, integer arithmetic with `+` and `-`, and string interpolation.
+- Learning concepts: trimming surrounding whitespace with `trim()`, conditional statements with `if`, null checks as input-validation guards, early returns with `return`, smart casts after null validation, and integer subtraction with `-`.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, `Int` values, safe conversion with `toIntOrNull()`, nullable values, equality checks, addition, and string interpolation.

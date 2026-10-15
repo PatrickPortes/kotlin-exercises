@@ -19,4 +19,6 @@ Output:
 The total cost is R$142.50.
 
 ## Notes
-- Learning concepts: integer and decimal input with `Int` and `Double`, whitespace trimming, safe conversions with `toIntOrNull()` and `toDoubleOrNull()`, combined null checks, early returns and smart casts after validation, combining daily and distance-based charges, arithmetic with mixed numeric types, parentheses in arithmetic expressions, formatting decimal output with `"%.2f".format(...)`, and locale-dependent decimal separators.
+- Learning concepts: composing a total cost from separate time-based and distance-based charges, using integer quantities for whole days and decimal quantities for distance.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, integer and decimal values, whitespace trimming, safe integer and decimal conversions, null checks, Boolean OR and short-circuit evaluation, conditional validation, early returns, smart casts, multiplication, addition, parentheses, string templates, decimal formatting, and locale-dependent decimal separators.

@@ -19,4 +19,6 @@ Output:
 Hello, Patrick!
 
 ## Notes
-- This exercise introduces console input with `readln()` and string interpolation with `$name`. The input is stored in a read-only `val` of type `String`, then inserted into a personalized greeting. `println()` adds a line break after the output, while `print()` does not.
+- Learning concepts: console input with `readln()`, the `String` type, read-only variables with `val`, explicit type declarations, string interpolation with `$name`, and console output without a trailing line break with `print()`.<br><br>
+
+- Reinforced concepts: `main()` as the entry point, console output with `println()`, package declarations, and block comments.

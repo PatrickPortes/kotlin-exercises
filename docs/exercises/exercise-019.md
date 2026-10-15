@@ -23,4 +23,6 @@ The randomly selected student is: Ana
 The selected name may differ between runs.
 
 ## Notes
-- Learning concepts: console input with `readln()`, collections of strings, explicit generic types with `<String>`, mutable lists with `mutableListOf()`, the distinction between a read-only `val` reference and mutable list contents, creating lists with `listOf()`, adding multiple elements with `addAll()`, random element selection with `random()`, nondeterministic results, and expressions inside string templates with `${...}`.
+- Learning concepts: generic collections with `<String>`, mutable lists with `mutableListOf()`, the distinction between a read-only reference and mutable list contents, list creation with `listOf()`, adding multiple elements with `addAll()`, random element selection with `random()`, and nondeterministic results.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, `String` values, read-only variables, type inference, and expressions inside string templates.

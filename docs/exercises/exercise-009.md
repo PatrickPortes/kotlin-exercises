@@ -30,4 +30,6 @@ The multiplication table for 5 from 1 to 10 is:
 -----------
 
 ## Notes
-- Learning concepts: console input, whitespace trimming, safe integer conversion, null checks and early returns, multiplication with `times()` and its equivalent `*` operator, expressions inside string templates with `${...}`, console output formatting, and recognizing repeated statements as an opportunity for future refactoring.
+- Learning concepts: multiplication through the `times()` function as an alternative to `*`, and recognizing repeated statements as an opportunity for future refactoring.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, integer values, whitespace trimming, safe integer conversion, null checks, conditional validation, early returns, smart casts, and expressions inside string templates.

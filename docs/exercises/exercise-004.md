@@ -29,4 +29,6 @@ Is it lowercase? false
 Is it capitalized? true
 
 ## Notes
-- Learning concepts: safe type conversions with `toIntOrNull()`, `toDoubleOrNull()`, and `toBooleanStrictOrNull()`; nullable values and fallback expressions with the Elvis operator `?:`; the `Any` type, type checks with `is`, and runtime type inspection with `::class.simpleName`; differences between empty and blank strings; character predicates; filtering and checking characters with `filter` and `all`; safe access with `firstOrNull()` and `?.`; skipping characters with `drop()`; and Boolean expressions with `&&` and `||`.
+- Learning concepts: type inference, decimal values with `Double` and Boolean values, safe conversions with `toIntOrNull()`, `toDoubleOrNull()`, and `toBooleanStrictOrNull()`, nullable values, fallback expressions with the Elvis operator `?:`, the `Any` type, type checks with `is`, runtime type inspection with `::class.simpleName`, differences between empty and blank strings, character predicates, lambdas and the implicit `it` parameter, filtering with `filter`, predicate checks with `all`, safe access with `firstOrNull()` and `?.`, skipping characters with `drop()`, equality checks with `==`, Boolean expressions with `&&` and `||` and their short-circuit evaluation, and expressions inside string templates with `${...}`.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, `String` and `Int` values, read-only variables, explicit type declarations, and string interpolation.

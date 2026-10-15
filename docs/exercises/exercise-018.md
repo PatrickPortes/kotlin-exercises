@@ -20,4 +20,6 @@ Cosine: 0.71
 Tangent: 1.00
 
 ## Notes
-- Learning concepts: decimal input with `Double`, safe numeric conversion, null checks and finite-number validation with `isFinite()`, Boolean expressions and early returns, differences between degrees and radians, Java interoperability through `Math.toRadians()`, trigonometric functions with `sin()`, `cos()`, and `tan()` from `kotlin.math`, formatting multiple values with `String.format()`, line breaks with `\n`, and locale-dependent decimal separators.
+- Learning concepts: differences between degrees and radians, angle conversion with `Math.toRadians()`, trigonometric functions with `sin()`, `cos()`, and `tan()`, and explicit line breaks in strings with `\n`.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, null checks, finite-number checks, Boolean operators, conditional validation, early returns, smart casts, mathematical imports, Java interoperability, decimal formatting, and locale-dependent decimal separators.

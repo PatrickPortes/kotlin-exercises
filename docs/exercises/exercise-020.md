@@ -23,4 +23,6 @@ The Presentation Order Will Be: [Bruno, Patrick, Carla, Ana]
 The presentation order may differ between runs.
 
 ## Notes
-- Learning concepts: console input with `readln()`, generic collections of strings, mutable lists with `mutableListOf<String>()`, the distinction between a read-only `val` reference and mutable list contents, creating lists with `listOf()`, adding multiple elements with `addAll()`, random ordering with `shuffled()`, creating a shuffled copy without modifying the original list, nondeterministic results, and displaying lists through string interpolation.
+- Learning concepts: random ordering with `shuffled()` and creating a shuffled copy without modifying the original list.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, string values, read-only variables, type inference, generic collections, mutable lists, read-only references to mutable contents, `listOf()`, `addAll()`, nondeterministic results, and expressions inside string templates.

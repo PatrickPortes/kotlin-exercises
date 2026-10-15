@@ -18,4 +18,6 @@ Output:
 The converted amount is 50.0 US dollars.
 
 ## Notes
-- Learning concepts: decimal values with `Double`, console input with `readln()`, whitespace trimming with `trim()`, safe numeric conversion with `toDoubleOrNull()`, nullable values and null checks, finite-number validation with `isFinite()`, non-negative value checks, Boolean expressions with `||` and `!`, early returns, multiplication with decimal factors, string interpolation, and console output with `print()`.
+- Learning concepts: no new concepts introduced in this exercise.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, null checks, finite-number checks, Boolean operators, non-negative value checks, conditional validation, early returns, smart casts, multiplication by scale factors, and string interpolation.

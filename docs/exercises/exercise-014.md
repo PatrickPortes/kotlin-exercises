@@ -18,4 +18,6 @@ Output:
 25.0°C is equivalent to 77.0°F.
 
 ## Notes
-- Learning concepts: decimal input and arithmetic with `Double`, safe conversion with `toDoubleOrNull()`, null checks and finite-number validation with `isFinite()`, Boolean expressions with `||` and `!`, early returns, temperature conversion formulas, multiplication, division and addition in one expression, arithmetic operator precedence and parentheses, and string interpolation with temperature units.
+- Learning concepts: converting between temperature scales with a formula that combines a scale factor and an offset.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, null checks, finite-number checks, Boolean operators, conditional validation, early returns, smart casts, multiplication, division, addition, arithmetic precedence and parentheses, and string interpolation.

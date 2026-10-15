@@ -18,4 +18,6 @@ Output:
 The product's price after a 5% discount is: 95.0
 
 ## Notes
-- Learning concepts: decimal input with `Double`, whitespace trimming, safe numeric conversion, null checks and early returns, percentage calculations, subtraction of a percentage-based amount, arithmetic operator precedence and parentheses, equivalent expressions for percentage discounts, configurable percentage values, and string interpolation.
+- Learning concepts: percentage discounts, expressing a percentage as a fraction of 100, equivalent discount expressions using subtraction or a reduction factor, and configurable percentage values.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, null checks, conditional validation, early returns, smart casts, subtraction, multiplication, division, arithmetic precedence and parentheses, and string interpolation.

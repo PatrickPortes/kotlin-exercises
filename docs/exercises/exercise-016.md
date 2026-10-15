@@ -18,4 +18,6 @@ Output:
 Your number with the decimal part removed is: 10
 
 ## Notes
-- Learning concepts: decimal input with `Double`, whitespace trimming with `trim()`, safe numeric conversion with `toDoubleOrNull()`, nullable values and null checks, conditional validation and early returns, conversion from `Double` to `Int` with `toInt()`, truncation toward zero instead of rounding, and string interpolation.
+- Learning concepts: no new concepts introduced in this exercise.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, null checks, conditional validation, early returns, smart casts, conversion from `Double` to `Int` with `toInt()`, truncation toward zero rather than rounding, and string interpolation.

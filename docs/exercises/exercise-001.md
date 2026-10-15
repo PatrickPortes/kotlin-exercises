@@ -18,18 +18,6 @@ Hello World!!!
 ```
 
 ## Notes
+- Learning concepts: organizing a Kotlin project in IntelliJ IDEA with packages, clear file names, documentation, a README, and a .gitignore file; `main()` as the program entry point; console output followed by a line break with `println()`; package declarations; and block comments with `/* ... */`.<br><br>
 
-<ul>
-  <li align="justify">
-    This exercise began by organizing the project structure in IntelliJ IDEA,
-    establishing packages, clear file names, documentation, a README, and a
-    .gitignore file to keep the codebase easy to navigate and maintain as it grows.
-  </li>
-  <br>
-  <li align="justify">
-    Introduces <code>main()</code> as the program's entry point and
-    <code>println()</code> to display text followed by a line break.<br>
-    The <code>package</code> declaration organizes the code within the project,
-    while <code>/* ... */</code> defines a block comment used to describe the exercise.
-  </li>
-</ul>
+- Reinforced concepts: None; this is the first exercise.

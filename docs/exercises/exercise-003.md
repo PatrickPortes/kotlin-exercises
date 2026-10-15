@@ -19,4 +19,6 @@ Output:
 The sum of the two numbers entered is: 8.
 
 ## Notes
-- Learning concepts: console input with `readln()`, conversion from `String` to `Int` with `toInt()`, explicit type declarations, read-only variables with `val`, integer addition with `+`, string interpolation, and console output with `println()`.
+- Learning concepts: the `Int` type, conversion from `String` to `Int` with `toInt()`, and integer addition with `+`.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input with `readln()`, console output with `println()`, read-only variables with `val`, explicit type declarations, and string interpolation.

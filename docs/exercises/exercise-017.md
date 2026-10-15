@@ -19,4 +19,6 @@ Output:
 The hypotenuse is: 5.00
 
 ## Notes
-- Learning concepts: reading multiple decimal values, safe conversion with `toDoubleOrNull()`, combined null checks with `||`, early returns and smart casts after validation, the Pythagorean theorem, importing mathematical functions from `kotlin.math`, hypotenuse calculations with `hypot()`, equivalent calculations with multiplication and `sqrt()`, Java interoperability through `System.out.printf()`, formatting values to two decimal places with `%.2f`, and locale-dependent decimal separators.
+- Learning concepts: the Pythagorean theorem, hypotenuse calculations with `hypot()`, and Java interoperability through formatted console output with `System.out.printf()`.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, combined null checks, conditional validation, early returns, smart casts, mathematical imports, square roots and multiplication in the alternative formula, decimal formatting, and locale-dependent decimal separators.

@@ -18,4 +18,6 @@ Output:
 Congratulations, You received a raise! Your new salary is: 2300.0
 
 ## Notes
-- Learning concepts: decimal input with `Double`, whitespace trimming, safe numeric conversion, null checks and early returns, percentage calculations, addition of a percentage-based amount, arithmetic operator precedence and parentheses, equivalent expressions for percentage increases, configurable percentage values, and string interpolation.
+- Learning concepts: percentage increases and growth factors such as `1 + rate / 100`, extending percentage calculations to salary raises.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, null checks, conditional validation, early returns, smart casts, addition, multiplication, division, arithmetic precedence and parentheses, percentage fractions, configurable percentages, and string interpolation.

@@ -19,4 +19,6 @@ Output:
 1.5 meters distance is equivalent to 1500.0 millimeters
 
 ## Notes
-- Learning concepts: decimal input and arithmetic with `Double`, safe conversion with `toDoubleOrNull()`, null checks, finite-number validation with `isFinite()`, non-negative value checks with comparison operators, combining validation conditions with `||`, early returns, metric unit conversion through multiplication, and string interpolation.
+- Learning concepts: metric unit conversion through scale factors, relating meters to centimeters and millimeters, and non-negative constraints for physical quantities.<br><br>
+
+- Reinforced concepts: `main()`, package declarations, block comments, console input and output, read-only variables, type inference, decimal values, whitespace trimming, safe numeric conversion, null checks, finite-number checks, Boolean operators, comparison operators, conditional validation, early returns, smart casts, multiplication, and string interpolation.

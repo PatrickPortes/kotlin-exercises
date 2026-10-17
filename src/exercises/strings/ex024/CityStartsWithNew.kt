@@ -1,9 +1,9 @@
 package exercises.strings.ex024
 
 /*
-Exercise 024: City Starts with Santo.
+Exercise 024: City Starts with New.
 
-Ask for a city's name and report whether it starts with “Santo”.
+Ask for a city's name and report whether it starts with “New”.
 
 Full statement: docs/exercises/exercise-024.md
 */
@@ -19,9 +19,9 @@ fun main() {
     }
 
     val firstWord = cityName.takeWhile { !it.isWhitespace() }
-    val startsWithSanto = firstWord.equals("Santo", ignoreCase = true)
+    val startsWithNew = firstWord.equals("New", ignoreCase = true)
 
-    if (startsWithSanto) {
+    if (startsWithNew) {
         println("Your city name starts with 'New'.")
     } else {
         println("Your city name doesn't start with 'New'.")
